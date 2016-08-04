@@ -1,0 +1,39 @@
+_repo: In-Flanders-Fields-and-Other-Poems_353
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Macphail, Andrew
+    alias: Macphail, Andrew, Sir
+    birthdate: 1864
+    deathdate: 1938
+    gutenberg_agent_id: '195'
+    url: http://www.gutenberg.org/2009/agents/195
+creator:
+  author:
+    agent_name: McCrae, John
+    birthdate: 1872
+    deathdate: 1918
+    gutenberg_agent_id: '194'
+    url: http://www.gutenberg.org/2009/agents/194
+    wikipedia: http://en.wikipedia.org/wiki/John_McCrae
+description: ''
+gutenberg_bookshelf:
+- World War I
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2008-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcsh 'Patriotic poetry'
+- !lcc 'PR'
+- !lcsh 'McCrae, John, 1872-1918'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- GITenberg
+title: In Flanders Fields, and Other Poems
+url: http://www.gutenberg.org/ebooks/353
